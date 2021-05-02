@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EIT/static/css/main.b822509f.chunk.css",
+    "main.js": "/EIT/static/js/main.a44e248c.chunk.js",
+    "main.js.map": "/EIT/static/js/main.a44e248c.chunk.js.map",
+    "runtime-main.js": "/EIT/static/js/runtime-main.63d6bff8.js",
+    "runtime-main.js.map": "/EIT/static/js/runtime-main.63d6bff8.js.map",
+    "static/css/2.0a5b19c0.chunk.css": "/EIT/static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.48059ed7.chunk.js": "/EIT/static/js/2.48059ed7.chunk.js",
+    "static/js/2.48059ed7.chunk.js.map": "/EIT/static/js/2.48059ed7.chunk.js.map",
+    "index.html": "/EIT/index.html",
+    "precache-manifest.506db3de0a246ef7d10f93356a9351d1.js": "/EIT/precache-manifest.506db3de0a246ef7d10f93356a9351d1.js",
+    "service-worker.js": "/EIT/service-worker.js",
+    "static/css/2.0a5b19c0.chunk.css.map": "/EIT/static/css/2.0a5b19c0.chunk.css.map",
+    "static/css/main.b822509f.chunk.css.map": "/EIT/static/css/main.b822509f.chunk.css.map",
+    "static/js/2.48059ed7.chunk.js.LICENSE.txt": "/EIT/static/js/2.48059ed7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63d6bff8.js",
+    "static/css/2.0a5b19c0.chunk.css",
+    "static/js/2.48059ed7.chunk.js",
+    "static/css/main.b822509f.chunk.css",
+    "static/js/main.a44e248c.chunk.js"
+  ]
+}
