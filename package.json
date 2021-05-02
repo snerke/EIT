@@ -1,6 +1,6 @@
 {
   "homepage": "https://sverrkju.github.io/EIT/",
-  "name": "prog-i-geo",
+  "name": "eit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
